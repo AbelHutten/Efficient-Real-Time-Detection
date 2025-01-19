@@ -15,4 +15,4 @@ A large part of the code in this work comes from the repository that is associat
       primaryClass={cs.CV}
 }
 ```
-The changes I made to his code are my own, and are not associated with the authors or publishers of the original work.
+The changes I made to the code are my own, and are not associated with the authors or publishers of the original work.
